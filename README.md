@@ -13,6 +13,7 @@ CLI for accessing python documentation from the command line
 - Add functionality to show documentation of external modules(this version only supports built-in modules)
 - Add functionality to show documentation of built-in functions like round() and type()
 - Pull requests are welcome(Your name will appeat in author list if merged)
+- If you face any issue, please report it in the Issues section
 
 ## Author
 Ankit Kr. Singh
